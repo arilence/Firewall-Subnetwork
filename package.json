@@ -1,0 +1,19 @@
+{
+  "name": "Firewall",
+  "version": "1.0.0",
+  "author": "Anthony Smith and Colin Bose",
+  "description": "Application to setup firewall and internal network",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "bootstrap-tokenfield": "^0.12.0",
+    "jquery": "^3.1.1",
+    "mustache": "^2.3.0"
+  }
+}
